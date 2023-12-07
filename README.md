@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthoaned👋 </h1>
+<h1 align="center">Hi, I'm Anthoaned👋 </h1>
 <h3 align="center">A passionate of Development Web & Design. I create stuff sometimes</h3>
 
 <!--
