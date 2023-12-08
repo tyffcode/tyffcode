@@ -18,6 +18,14 @@ Here are some ideas to get you started:
 
 ## About Me
 
+💬 Soy un desarrolladora Full-Stack y artista con base en Lima, Perú. Tengo una amplia experiencia en programación además cuento con 5 años de experiencia en ventas y administración de negocios tradicionales y digitales. Me gusta trabajar en espacios colaborativos y en la creación de proyectos. Me destaco por mis habilidades comunicativas, de organización y liderazgo. Disfruto aplicando la escucha activa y la empatía para negociar tareas y resolver conflictos, así como para potenciar el logro de resultados.
+
+🔭 Actualmente estoy trabajando en el dedarrollo uloungeBA, empresa dedicada al mundo hotelero y viajes en Buenos Aires para el mundo.
+
+⚡ Dato curioso: Me encanta escuchar música EDM y Techno, me gusta leer y escribir ensayos a veces.
+
+📫 Mi email azavalamontc@gmail.com
+
 ## Languages and Tools
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
